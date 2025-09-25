@@ -1,7 +1,7 @@
   <p align="center">
   <br>
   <samp>
-    Hello there! My name is <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Victoria!</a></b>.
+    Hello there! My name is <b> Victoria!</a></b>.
     <br>I am currently studying Fullstack.NET/C# in Sweden.<br>
 </samp>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
